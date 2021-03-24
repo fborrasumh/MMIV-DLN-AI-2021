@@ -24,38 +24,41 @@ ______________________________________________________
 
 The course will run from April 19th to June 8th. 
 
-| Day       |  Content  | Details  
-|------------|------------|-----------------------------------------------------------
-|**Monday, April 19th**|                                                  |               |
-|10:15-12:00 | About the course, motivation, teams | _TBA_| 
-|**Week 16, April 20&ndash;23**|                                                |               |
-|On your own | Lab 0: Getting started| _TBA_ | 
-|**Thursday April 29th**|                                                  |               |
-|10:15-12:00 | Individual PhD project pitch | _TBA_ | 
-|**Friday April 30th**|                                                  |               |
-|10:15-12:00 | About the team project | _TBA_ | 
-|**Thursday May 6th**|                                                  |               |
-|10:15-12:00 | Lab 1: Sequences and tabular data | _TBA_ | 
-|**Friday May 7th**|                                                  |               |
-|10:15-12:00 | Lab 1: Sequences and tabular data | _TBA_ | 
-|**Wednesday May 12th**|                                                  |               |
-|10:15-12:00 | Lab 2: Images in time and space | _TBA_ | 
-|**Friday May 14th**|                                                  |               |
-|10:15-12:00 | Lab 2: Images in time and space | _TBA_ |
-|**Wednesday May 19th**|                                                  |               |
-|10:15-12:00 | Lab 3: Drug discovery, RRI and ethics | _TBA_ | 
-|**Thursday May 20th**|                                                  |               |
-|10:15-12:00 | Lab 3: Drug discovery, RRI and ethics | _TBA_ | 
-|**Week 22**|                                                  |               |
-|On your own | Focus on team project | _TBA_ | 
-|**Thursday May 27th**|                                                  |               |
-|10:15-12:00 | Team project presentations |_TBA_| 
-|**Wednesday June 2nd**|                                                  |               |
-| | Team project deadline | _TBA_| 
-|**Friday June 4th**|                                                  |               |
-| | Feedback on team project | _TBA_| 
-|**Tuesday June 8th**|                                                  |               |
-|10:15-12:00 | Digital exam | Pass/fail| 
+
+| Day       |  Content  
+|------------|------------
+|**Monday, April 19th**|                                                  |               
+|10:15-12:00 | About the course, motivation, teams |
+|**Week 16, April 20&ndash;23**|                                                |               
+|On your own | Getting started| 
+|**Thursday April 29th**|                                                  |               
+|10:15-12:00 | Individual PhD project pitch | 
+|**Friday April 30th**|                                                  |               
+|10:15-12:00 | Getting started on the team project | 
+|**Thursday May 6th**|                                                  |               
+|10:15-12:00 | What is deep learning? A hands-on tour | 
+|**Friday May 7th**|                                                  |               
+|10:15-12:00 | What is deep learning? A hands-on tour | 
+|**Wednesday May 12th**|                                                  |               
+|10:15-12:00 | Biomedical imaging in time and space | 
+|**Friday May 14th**|                                                  |               
+|10:15-12:00 | Biomedical imaging in time and space | 
+|**Wednesday May 19th**|                                                  |               
+|10:15-12:00 | Network science  | 
+|**Thursday May 20th**|                                                  |               
+|10:15-12:00 | Network science  | 
+|**Week 22**|                                                  |               
+|On your own | Work on team project | 
+|**Thursday May 27th**|                                                  |               
+|10:15-12:00 | Team project presentations |
+|**Wednesday June 2nd**|                                                  |               
+| | Team project deadline | 
+|**Friday June 4th**|                                                  |               
+| | Feedback on team project |
+|**Tuesday June 8th**|                                                  |               
+|10:15-12:00 | Digital exam (pass/fail)| 
+
+
 
 
 
