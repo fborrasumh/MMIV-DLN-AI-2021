@@ -1,4 +1,4 @@
-# MMIV-DLN-AI-2021: A hands-on introduction to artificial intelligence in computational biotechnology and medicine 
+# MMIV-DLN-AI-2021: A hands-on course on artificial intelligence in computational biotechnology and medicine 
 
 The [course](https://www.digitallifenorway.org/research-school/events/a-hands-on-introduction-to-artificial-intelligence.html) belongs to the [Department of Computer science, Electrical engineering and Mathematical sciences](https://www.hvl.no/en/about/management/faculty-of-engineering-and-science/department-of-computer-science-electrical-engineering-and-mathematical-sciences-ny-side), Western Norway University of Applied Sciences, and is associated with the [Mohn Medical Imaging and Visualization Center](https://mmiv.no/).
 
