@@ -36,9 +36,9 @@ The course will run from April 19th to June 8th.
 |**Friday April 30th**|                                                  |               
 |10:15-12:00 | Getting started on the team project | 
 |**Thursday May 6th**|                                                  |               
-|10:15-12:00 | What is deep learning? A hands-on tour | 
+|10:15-12:00 | A hands-on tour of deep learning | 
 |**Friday May 7th**|                                                  |               
-|10:15-12:00 | What is deep learning? A hands-on tour | 
+|10:15-12:00 | A hands-on tour of deep learning | 
 |**Wednesday May 12th**|                                                  |               
 |10:15-12:00 | Biomedical imaging in time and space | 
 |**Friday May 14th**|                                                  |               
