@@ -149,4 +149,6 @@ David G. Ellis [BraTS 2020 Tutorial](https://github.com/ellisdg/3DUnetCNN/tree/m
 - Lee BD. Ten simple rules for documenting scientific software. PLoS Comput Biol 2018;14(12):e1006561 [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006561)]
 - Boudreau M et al. On the open-source landscape of PLOS Computational Biology. PLoS Comput Biol 2021;17(2):e1008725 [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008725)]
 - Rule A et al. Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks. PLoS Comput Biol 2019;15(7):e1007007 [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007)] (GitHub: https://github.com/jupyter-guide/ten-rules-jupyter)
+- PLoS Computational Biology (2021). Code Availability - Summary of Policy Requirements for Authors Publishing in PLOS Computational Biology in effect from 30 March 2021. [[link](https://journals.plos.org/ploscompbiol/s/code-availability)]
+- PLoS Computational Biology (2021). Data Availability - Policy that applies to all PLOS journals, unless otherwise noted. [[link](https://journals.plos.org/ploscompbiol/s/data-availability)]
 __________________________________________________________________________
