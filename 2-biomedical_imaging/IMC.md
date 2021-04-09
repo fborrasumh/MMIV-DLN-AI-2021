@@ -1,9 +1,7 @@
 # IMC: Learning objectives
 
-- xxx
-- xxx
-- xxx
-- xxx
+- <In progress>
+
 
 ----------------------------
 
