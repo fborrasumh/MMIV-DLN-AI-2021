@@ -7,4 +7,8 @@ data/
 */.ipynb_checkpoints/*
 _site/
 .vscode/*
+__MACOSX
+__pycache__
+2-biomedical_imaging/logs.log
+2-biomedical_imaging/mlruns
 
