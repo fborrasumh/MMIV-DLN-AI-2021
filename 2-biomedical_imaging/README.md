@@ -41,14 +41,21 @@ and illustrate the **generic nature of computational imaging**, here: unsupervis
 
 ```
 2-biomedical_imaging % tree data
+
 data
 ├── imc
 │   ├── E08_a0_full.csv
 │   ├── E08_a0_full.tiff
-│   ├── E08_a0_panel_data_and_channel_numbering.csv
 │   └── table1_IMC_panel_37x4.csv
 └── mri
     ├── 0.0-test_nifti.nii.gz
+    ├── BraTS20
+    │   ├── BraTS20_Training_002_HDGlioSeg.nii.gz
+    │   ├── BraTS20_Training_002_flair.nii.gz
+    │   ├── BraTS20_Training_002_seg.nii.gz
+    │   ├── BraTS20_Training_002_t1.nii.gz
+    │   ├── BraTS20_Training_002_t1ce.nii.gz
+    │   └── BraTS20_Training_002_t2.nii.gz
     ├── brain_roi_mask.nii.gz
     ├── dess_060.dcm
     ├── dess_060.nii.gz
@@ -59,9 +66,7 @@ data
     ├── flash_060_brain_mask.png
     ├── flash_060_training_mask_6cla.png
     ├── mni_icbm152_t1_tal_nlin_sym_09c.nii.gz
-    ├── multispectral_mri.nii.gz
     ├── multispectral_mri_training_data.csv
-    ├── multispectral_mri_training_data_from_nifti_mask.csv
     ├── psif_060.dcm
     ├── psif_060.nii.gz
     └── training_mask_1_6.nii.gz
