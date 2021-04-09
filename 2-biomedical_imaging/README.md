@@ -37,7 +37,7 @@ and illustrate the **generic nature of computational imaging**, here: unsupervis
 
 ### Download the IMC and MRI data from Goggle Drive cloud: 
 
-## [00-get-mri-imc-data.ipynb]
+## [00-get-mri-imc-data.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical_imaging/00-get-mri-imc-data.ipynb)
 
 ```
 2-biomedical_imaging % tree data
