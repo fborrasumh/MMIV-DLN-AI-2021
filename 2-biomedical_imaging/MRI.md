@@ -1,11 +1,6 @@
 # MRI: learning objectives
 
-- xxx
-- xxx
-- xxx
-- xxx
-- xxx
--
+- <In progres>
 
 ------------
 ## Magnetic Resonacne Imaging:
