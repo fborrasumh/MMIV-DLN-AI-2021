@@ -27,7 +27,7 @@ The course will run from April 19th to June 8th.
 | Day       |  Content
 |------------|------------
 |**Monday, April 19th**|                                                  |
-|10:15-12:00 | [About the course, motivation, teams](about) |
+|10:15-12:00 | About the course, motivation, participants |
 |**Week 16, April 20&ndash;23**|                                                |
 |On your own | [Getting started](0-getting_started)|
 |**Thursday April 29th**|                                                  |
