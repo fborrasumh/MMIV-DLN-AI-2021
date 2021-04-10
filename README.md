@@ -33,15 +33,15 @@ The course will run from April 19th to June 8th.
 |**Thursday April 29th**|                                                  |
 |10:15-12:00 | [Individual PhD project pitch](project_pitch) |
 |**Friday April 30th**|                                                  |
-|10:15-12:00 | [Getting started on the team project](team_project/README.md) |
+|10:15-12:00 | [Getting started on the team project](team_project) |
 |**Thursday May 6th**|                                                  |
 |10:15-12:00 | [A hands-on tour of deep learning](1-deep_learning) |
 |**Friday May 7th**|                                                  |
 |10:15-12:00 | [A hands-on tour of deep learning](1-deep_learning) |
 |**Wednesday May 12th**|                                                  |
-|10:15-12:00 | [Biomedical imaging in time and space](2-biomedical_imaging/README.md) |
+|10:15-12:00 | [Biomedical imaging in time and space](2-biomedical_imaging) |
 |**Friday May 14th**|                                                  |
-|10:15-12:00 | [Biomedical imaging in time and space](2-biomedical_imaging/README.md) |
+|10:15-12:00 | [Biomedical imaging in time and space](2-biomedical_imaging) |
 |**Wednesday May 19th**|                                                  |
 |10:15-12:00 | [Network science](3-network_science)  |
 |**Thursday May 20th**|                                                  |
