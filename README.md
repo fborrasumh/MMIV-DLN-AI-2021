@@ -24,41 +24,38 @@ ______________________________________________________
 
 The course will run from April 19th to June 8th. 
 
-
-| Day       |  Content  
+| Day       |  Content
 |------------|------------
-|**Monday, April 19th**|                                                  |               
-|10:15-12:00 | About the course, motivation, teams |
-|**Week 16, April 20&ndash;23**|                                                |               
-|On your own | Getting started| 
-|**Thursday April 29th**|                                                  |               
-|10:15-12:00 | Individual PhD project pitch | 
-|**Friday April 30th**|                                                  |               
-|10:15-12:00 | Getting started on the team project | 
-|**Thursday May 6th**|                                                  |               
-|10:15-12:00 | A hands-on tour of deep learning | 
-|**Friday May 7th**|                                                  |               
-|10:15-12:00 | A hands-on tour of deep learning | 
-|**Wednesday May 12th**|                                                  |               
-|10:15-12:00 | Biomedical imaging in time and space | 
-|**Friday May 14th**|                                                  |               
-|10:15-12:00 | Biomedical imaging in time and space | 
-|**Wednesday May 19th**|                                                  |               
-|10:15-12:00 | Network science  | 
-|**Thursday May 20th**|                                                  |               
-|10:15-12:00 | Network science  | 
-|**Week 22**|                                                  |               
-|On your own | Work on team project | 
-|**Thursday May 27th**|                                                  |               
+|**Monday, April 19th**|                                                  |
+|10:15-12:00 | [About the course, motivation, teams](about) |
+|**Week 16, April 20&ndash;23**|                                                |
+|On your own | [Getting started](0-getting_started)|
+|**Thursday April 29th**|                                                  |
+|10:15-12:00 | [Individual PhD project pitch](project_pitch) |
+|**Friday April 30th**|                                                  |
+|10:15-12:00 | [Getting started on the team project](team_project/README.md) |
+|**Thursday May 6th**|                                                  |
+|10:15-12:00 | [A hands-on tour of deep learning](1-deep_learning) |
+|**Friday May 7th**|                                                  |
+|10:15-12:00 | [A hands-on tour of deep learning](1-deep_learning) |
+|**Wednesday May 12th**|                                                  |
+|10:15-12:00 | [Biomedical imaging in time and space](2-biomedical_imaging/README.md) |
+|**Friday May 14th**|                                                  |
+|10:15-12:00 | [Biomedical imaging in time and space](2-biomedical_imaging/README.md) |
+|**Wednesday May 19th**|                                                  |
+|10:15-12:00 | [Network science](3-network_science)  |
+|**Thursday May 20th**|                                                  |
+|10:15-12:00 | [Network science](3-network_science)  |
+|**Week 22**|                                                  |
+|On your own | Work on team project |
+|**Thursday May 27th**|                                                  |
 |10:15-12:00 | Team project presentations |
-|**Wednesday June 2nd**|                                                  |               
-| | Team project deadline | 
-|**Friday June 4th**|                                                  |               
+|**Wednesday June 2nd**|                                                  |
+| | Team project deadline |
+|**Friday June 4th**|                                                  |
 | | Feedback on team project |
-|**Tuesday June 8th**|                                                  |               
-|10:15-12:00 | Digital exam (pass/fail)| 
-
-
+|**Tuesday June 8th**|                                                  |
+|10:15-12:00 | Digital exam (pass/fail)|
 
 
 
