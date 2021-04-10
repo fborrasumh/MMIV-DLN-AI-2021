@@ -11,4 +11,6 @@ __MACOSX
 __pycache__
 2-biomedical_imaging/logs.log
 2-biomedical_imaging/mlruns
+2-biomedical_imaging/.DS_Store
+
 
