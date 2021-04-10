@@ -75,7 +75,10 @@ data
     └── training_mask_1_6.nii.gz
 ```
 
-## [01-imaging-intro.ipynb]
+## [01-imaging-intro.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical_imaging/01-imaging-intro.ipynb)
+<a href="https://colab.research.google.com/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical-imaging/01-imaging-intro.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 (Wednesday May 12th)
 
 In this notebook we will learn about general terms and concepts related to digital images and digital image processing, including some topics (Gabor filtering) relevant to biological vision (simple cells in V1) and convolutional neural networks (CNNs) will be demonstrated.<br>
