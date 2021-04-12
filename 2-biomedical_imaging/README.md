@@ -120,7 +120,7 @@ We will also introduce Python-based tools (libraries) for reading image files of
 
 - To perform such pixel-wise tissue classification we will make use of the training (i.e. the `training mask`) we obtained during the **labelling of data** (see figure below of color-coded tissue samples)
 
-- In the previous data labeling step (not part of these notebooks) we defined six different classes (tissue types), denoted $\mathbf y$ and the corresponding four channel multispectral MRI data, dentoted $\mathbf X$. 
+- In the previous data labeling step (not part of these notebooks) we defined six different classes (tissue types), denoted <img src="https://latex.codecogs.com/svg.image?\mathbf&space;y" title="\mathbf y" />and the corresponding four channel multispectral MRI data, dentoted <img src="https://latex.codecogs.com/svg.image?\mathbf&space;X" title="\mathbf X" />. 
 
 - The notebook is thus a practical machine learning example of the formalism: <img src="https://latex.codecogs.com/svg.image?y&space;\approx&space;f\left(\mathbf&space;X,&space;\theta\right)" title="y \approx f\left(\mathbf X, \theta\right)" /><br>
 (uses https://latex.codecogs.com)
