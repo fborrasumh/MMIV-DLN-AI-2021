@@ -122,13 +122,7 @@ We will also introduce Python-based tools (libraries) for reading image files of
 
 - In the previous data labeling step (not part of these notebooks) we defined six different classes (tissue types), denoted $\mathbf y$ and the corresponding four channel multispectral MRI data, dentoted $\mathbf X$. 
 
-- The notebook is thus a practical machine learning example of the formalism: y `\approx `{=tex}f`\left`{=tex}(`\mathbf `{=tex}X,
-`\theta`{=tex}`\right`{=tex})
-
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-```latex
-y \approx f\left(\mathbf X, \theta\right)
-```
+- The notebook is thus a practical machine learning example of the formalism: ![y \approx f\left(\mathbf X, \theta\right) ](https://render.githubusercontent.com/render/math?math=%5Ctextstyle+y+%5Capprox+f%5Cleft%28%5Cmathbf+X%2C+%5Ctheta%5Cright%29+)
 
 - You will also learn to navigate and appreciate the distinction between **image space** (pixel locations, spatial neiborhoods) and **feature vector space** (signal intensity value combinations, and similarity of pixel-based and tissue-based "signatures").
 
