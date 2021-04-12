@@ -116,14 +116,13 @@ We will also introduce Python-based tools (libraries) for reading image files of
 
 - In this notebook you will learn to predict predefined tissue types in a given multispectral MR image using  machine learning (**supervised classification**)
 
-- The supervised classification model we wil use is simple **K-nearest neighbor** classification model, denoted $f$ (described below)
+- The supervised classification model we wil use is simple **K-nearest neighbor** classification model, denoted _f_ (described below)
 
 - To perform such pixel-wise tissue classification we will make use of the training (i.e. the `training mask`) we obtained during the **labelling of data** (see figure below of color-coded tissue samples)
 
-- In the previous data labeling step (not part of these notebooks) we defined six different classes (tissue types), denoted <img src="https://latex.codecogs.com/svg.image?\mathbf&space;y" title="\mathbf y" />and the corresponding four channel multispectral MRI data, dentoted <img src="https://latex.codecogs.com/svg.image?\mathbf&space;X" title="\mathbf X" />. 
+- In the previous data labeling step (not part of these notebooks) we defined six different classes (tissue types), denoted <img src="https://latex.codecogs.com/svg.image?\mathbf&space;y" title="\mathbf y" /> and the corresponding four channel multispectral MRI data, dentoted <img src="https://latex.codecogs.com/svg.image?\mathbf&space;X" title="\mathbf X" />. 
 
-- The notebook is thus a practical machine learning example of the formalism: <img src="https://latex.codecogs.com/svg.image?y&space;\approx&space;f\left(\mathbf&space;X,&space;\theta\right)" title="y \approx f\left(\mathbf X, \theta\right)" /><br>
-(uses https://latex.codecogs.com)
+- The notebook is thus a practical machine learning example of the formalism: <img src="https://latex.codecogs.com/svg.image?y&space;\approx&space;f\left(\mathbf&space;X,&space;\theta\right)" title="y \approx f\left(\mathbf X, \theta\right)" /> (uses https://latex.codecogs.com)
 
 - You will also learn to navigate and appreciate the distinction between **image space** (pixel locations, spatial neiborhoods) and **feature vector space** (signal intensity value combinations, and similarity of pixel-based and tissue-based "signatures").
 
