@@ -108,7 +108,10 @@ We will also introduce Python-based tools (libraries) for reading image files of
 (Wednesday May 12th)
 
 
-## 04-mri-knn-tissue-classification.ipynb
+## [04-mri-knn-tissue-classification.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical_imaging/04-mri-knn-tissue-classification.ipynb)
+<a href="https://colab.research.google.com/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/2-biomedical-imaging/04-mri-knn-tissue-classification.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 (Friday May 14th)
 
 - In this notebook you will learn to predict predefined tissue types in a given multispectral MR image using  machine learning (**supervised classification**)
