@@ -18,8 +18,6 @@ For questions about the course, contact course coordinator [Alexander S. Lunderv
 ______________________________________________________
 
 
-# _Website under construction_
-
 # Course schedule
 
 The course will run from April 19th to June 8th. 
