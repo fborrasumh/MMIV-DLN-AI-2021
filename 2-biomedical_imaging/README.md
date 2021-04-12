@@ -124,6 +124,8 @@ We will also introduce Python-based tools (libraries) for reading image files of
 
 - The notebook is thus a practical machine learning example of the formalism: y `\approx `{=tex}f`\left`{=tex}(`\mathbf `{=tex}X,
 `\theta`{=tex}`\right`{=tex})
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 ```latex
 y \approx f\left(\mathbf X, \theta\right)
 ```
