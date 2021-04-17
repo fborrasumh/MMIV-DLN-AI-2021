@@ -45,7 +45,7 @@ The course will run from April 19th to June 8th.
 |**Thursday May 20th**|                                                  |
 |10:15-12:00 | [Network science](3-network_science)  |
 |**Week 22**|                                                  |
-|On your own | Work on team project |
+|On your own | Work on [team project](team_project) |
 |**Thursday May 27th**|                                                  |
 |10:15-12:00 | Team project presentations |
 |**Wednesday June 2nd**|                                                  |
