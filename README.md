@@ -29,7 +29,7 @@ The course will run from April 19th to June 8th.
 |**Week 16, April 20&ndash;23**|                                                |
 |On your own | [Getting started](0-getting_started)|
 |**Thursday April 29th**|                                                  |
-|10:15-12:00 | [Individual PhD project pitch](project_pitch) |
+|10:15-12:00 | [Individual project pitch](project_pitch) |
 |**Friday April 30th**|                                                  |
 |10:15-12:00 | [Getting started on the team project](team_project) |
 |**Thursday May 6th**|                                                  |
