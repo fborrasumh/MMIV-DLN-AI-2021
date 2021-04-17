@@ -1,7 +1,3 @@
-## MMIV-DLN-AI-2021 (team-based project)
-
-(Centre for Digital Life Norway [MMIV-DLN-AI-2021](https://www.digitallifenorway.org/research-school/events/a-hands-on-introduction-to-artificial-intelligence.html))
-
 # _Precision imaging and personalized medicine in glioblastoma using methods from AI and network science_
 
 
