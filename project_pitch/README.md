@@ -19,4 +19,4 @@ Here's how your pitch should be framed:
 ## Practicalities
 * You'll present your pitch for the lecturers and your fellow students of the course. See the course schedule.
 * The presentation order will be random and shared through Discord.
-* We will stop you after 5 minutes to leave ~1 min for questions and for swapping to the next speaker. 
+* We will stop you after 5 minutes. 
