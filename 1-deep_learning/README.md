@@ -16,16 +16,21 @@ In Part 2 we'll change gears and fly through some more involved examples. The go
 ## Notebooks
 
 ### Part 1
-* `DL-Example-1-MedNIST-using-PyTorch.ipynb`. This notebook will provide a translation of the lecture's description of deep learning into PyTorch code, using a simple image classification example (the MedMIST data set collected by Dr. Bradley J. Erickson). <br><a href="https://colab.research.google.com/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/1-deep_learning/DL-Example-1-MedNIST-using-PyTorch.ipynb">
+* `DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb`. This notebook will provide a translation of the lecture's description of deep learning into PyTorch code, using a simple image classification example (the MedMIST data set collected by Dr. Bradley J. Erickson). <br><a href="https://colab.research.google.com/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/1-deep_learning/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-* `DL-Example-2-MedNIST-MURA-using-fastai.ipynb`. This notebook repeats the above story by using more advanced image classification techniques, and also extends it to a much more difficult data set. Working through this notebook will give you a useful reference point for your further exploration of deep learning, and provide a bridge to the more advanced examples of Part 2.<br><a href="https://colab.research.google.com/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/1-deep_learning/DL-Example-2-MedNIST-MURA-using-fastai.ipynb">
+* `DL-Example-2-image_classification-MedNIST-MURA-using-fastai.ipynb`. This notebook repeats the above story by using more advanced image classification techniques, and also extends it to a much more difficult data set. Working through this notebook will give you a useful reference point for your further exploration of deep learning, and provide a bridge to the more advanced examples of Part 2.<br><a href="https://colab.research.google.com/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/1-deep_learning/DL-Example-2-image_classification-MedNIST-MURA-using-fastai.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 ### Part 2
-_TBA_
+* `DL-Example-3-representing_data_as_images.ipynb`. _Details TBA_
+* `DL-Example-4-CNNs-as-feature_extractors.ipynb`. _Details TBA_
+* `DL-Example-5-image_classification-tumor-grading.ipynb`. _Details TBA_
+* `DL-Example-6-segmentation-brain-tumor-using-MONAI.ipynb`. _Details TBA_
+* `DL-Example-7-segmentation-cell-segmentation-PyTorch-fastai.ipynb`. _Details TBA_
+* `DL-Example-8-graphs-using-torch-geometric.ipynb`. _Details TBA_
 
 ## Slides
 
