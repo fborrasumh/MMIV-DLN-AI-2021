@@ -15,7 +15,7 @@ In Part 2 we'll change gears and fly through some more involved examples. The go
 
 ## Notebooks
 
-### Part 1
+### Part 1: What is deep learning?
 * `DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb`. This notebook will provide a translation of the lecture's description of deep learning into PyTorch code, using a simple image classification example (the MedMIST data set collected by Dr. Bradley J. Erickson). <br><a href="https://colab.research.google.com/github/MMIV-ML/MMIV-DLN-AI-2021/blob/master/1-deep_learning/DL-Example-1-image_classification-MedNIST-using-PyTorch.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -24,7 +24,7 @@ In Part 2 we'll change gears and fly through some more involved examples. The go
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### Part 2
+### Part 2: A tour of practical deep learning
 * `DL-Example-3-representing_data_as_images.ipynb`. 
 * `DL-Example-4-CNNs-as-feature_extractors.ipynb`. 
 * `DL-Example-5-image_classification-tumor-grading.ipynb`. 
