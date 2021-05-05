@@ -25,12 +25,17 @@ In Part 2 we'll change gears and fly through some more involved examples. The go
 </a>
 
 ### Part 2
-* `DL-Example-3-representing_data_as_images.ipynb`. _Details TBA_
-* `DL-Example-4-CNNs-as-feature_extractors.ipynb`. _Details TBA_
-* `DL-Example-5-image_classification-tumor-grading.ipynb`. _Details TBA_
-* `DL-Example-6-segmentation-brain-tumor-using-MONAI.ipynb`. _Details TBA_
-* `DL-Example-7-segmentation-cell-segmentation-PyTorch-fastai.ipynb`. _Details TBA_
-* `DL-Example-8-graphs-using-torch-geometric.ipynb`. _Details TBA_
+* `DL-Example-3-representing_data_as_images.ipynb`. 
+* `DL-Example-4-CNNs-as-feature_extractors.ipynb`. 
+* `DL-Example-5-image_classification-tumor-grading.ipynb`. 
+* `DL-Example-6-segmentation-brain-tumor-using-MONAI.ipynb`.
+* `DL-Example-7-segmentation-cell-segmentation-PyTorch-fastai.ipynb`. 
+* `DL-Example-8-graphs-using-torch-geometric.ipynb`. 
+
+### Browse notebooks online
+You can browse through the notebooks non-interactively using jupyter.org's nbviewer by clicking [here](https://nbviewer.jupyter.org/github.com/MMIV-ML/MMIV-DLN-AI-2021/tree/master/1-deep_learning/notebooks.ipynb).
+
+
 
 ## Slides
 
