@@ -33,7 +33,7 @@ In Part 2 we'll change gears and fly through some more involved examples. The go
 * `DL-Example-8-graphs-using-torch-geometric.ipynb`. 
 
 ### Browse notebooks online
-You can browse through the notebooks non-interactively using jupyter.org's nbviewer by clicking [here](https://nbviewer.jupyter.org/github.com/MMIV-ML/MMIV-DLN-AI-2021/tree/master/1-deep_learning/notebooks.ipynb).
+You can browse through the notebooks non-interactively using jupyter.org's nbviewer by clicking [here](https://nbviewer.jupyter.org/github/MMIV-ML/MMIV-DLN-AI-2021/tree/master/1-deep_learning/).
 
 
 
