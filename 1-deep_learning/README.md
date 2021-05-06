@@ -28,8 +28,8 @@ In Part 2 we'll change gears and fly through some more involved examples. The go
 * `DL-Example-3-representing_data_as_images.ipynb`. 
 * `DL-Example-4-CNNs-as-feature_extractors.ipynb`. 
 * `DL-Example-5-image_classification-tumor-grading.ipynb`. 
-* `DL-Example-6-segmentation-brain-tumor-using-MONAI.ipynb`.
-* `DL-Example-7-segmentation-cell-segmentation-PyTorch-fastai.ipynb`. 
+* `DL-Example-6-segmentation-cell-segmentation-PyTorch-fastai.ipynb`. 
+* `DL-Example-7-segmentation-brain-tumor-using-MONAI.ipynb`.
 * `DL-Example-8-graphs-using-torch-geometric.ipynb`. 
 
 ### Browse notebooks online
