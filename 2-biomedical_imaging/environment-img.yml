@@ -1,0 +1,41 @@
+name: mmiv-dln-img
+
+channels:
+  - simpleitk
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python==3.8
+  - jupyter
+  - ipython
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - pip
+  - git
+  - gdown
+  - ipywidgets
+  - numpy
+  - scipy
+  - pandas
+  - openpyxl
+  - seaborn
+  - SimpleITK
+  - scikit-image
+  - scikit-learn
+  - scikit-plot
+  - dipy
+  - imageio
+  - tifffile
+  - statsmodels
+  - nibabel
+  - nilearn
+  - networkx
+
+
+# To remove and reinstall the mmiv-dln-img environment (if installation problems):
+# conda deactivate
+# conda env remove -n mmiv-dln-img
+# conda env create -f environment-img.yml
+# conda activate mmiv-dln-img
