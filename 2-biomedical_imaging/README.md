@@ -15,6 +15,11 @@ More specifically:
 - the nature of 4D (3D + time) resting state BOLD functional MRI (rs-fMRI)
 - brain connectivity and graph representation towards Network science (being the next module in the course)
 
+
+### Presentations: "Biomedical imaging in time and space"
+- [[Part 1](https://docs.google.com/presentation/d/11U7L6OOP0M1bGZ-za0vy2dRqR8RJ3f07t4sjtvzkJpA/edit?usp=sharing)]
+- [[Part 2](https://docs.google.com/presentation/d/1j8LGfbNyg9CvS0d6li2rfeJ9nnwGq_NZS2EWWcGGNe8/edit?usp=sharing)]
+
 -------------------------
 
 ## Before you start on this module: 
