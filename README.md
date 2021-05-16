@@ -53,7 +53,7 @@ The course will run from April 19th to June 8th.
 |**Friday June 4th**|                                                  |
 | | Feedback on team project |
 |**Tuesday June 8th**|                                                  |
-|10:15-12:00 | Digital exam (pass/fail)|
+| | Oral exam (pass/fail)|
 
 
 
